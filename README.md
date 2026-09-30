@@ -7,6 +7,7 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -16,4 +17,8 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0002-add-two-numbers/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 <!---LeetCode Topics End-->
