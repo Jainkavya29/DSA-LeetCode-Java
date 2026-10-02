@@ -43,11 +43,13 @@ leetcode dsa
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0860-lemonade-change/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0860-lemonade-change/) | Easy |
 ## Sorting
@@ -58,4 +60,8 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0455-assign-cookies/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
