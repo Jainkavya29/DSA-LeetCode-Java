@@ -11,6 +11,7 @@ leetcode dsa
 | [0021-merge-two-sorted-lists](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0148-sort-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -29,6 +30,7 @@ leetcode dsa
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0148-sort-list/) | Medium |
 | [0455-assign-cookies](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -57,6 +59,7 @@ leetcode dsa
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0148-sort-list/) | Medium |
 | [0455-assign-cookies](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0455-assign-cookies/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -66,4 +69,12 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0055-jump-game/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
