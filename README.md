@@ -92,6 +92,7 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -109,4 +110,8 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0020-valid-parentheses/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
