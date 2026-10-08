@@ -58,6 +58,7 @@ leetcode dsa
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0455-assign-cookies/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0860-lemonade-change](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0860-lemonade-change/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -94,6 +95,7 @@ leetcode dsa
 | [0020-valid-parentheses](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,4 +116,8 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0155-min-stack/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
