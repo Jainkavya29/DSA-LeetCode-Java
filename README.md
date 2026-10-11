@@ -102,6 +102,7 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0020-valid-parentheses/) | Easy |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -138,4 +139,16 @@ leetcode dsa
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
