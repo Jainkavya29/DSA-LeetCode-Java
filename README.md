@@ -47,6 +47,7 @@ leetcode dsa
 | [0455-assign-cookies](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@ leetcode dsa
 | [0485-max-consecutive-ones](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0860-lemonade-change](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0860-lemonade-change/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,4 +179,8 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0169-majority-element/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
