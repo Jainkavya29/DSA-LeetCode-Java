@@ -53,6 +53,7 @@ leetcode dsa
 | [0141-linked-list-cycle](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0169-majority-element/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ leetcode dsa
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0055-jump-game](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0055-jump-game/) | Medium |
+| [0169-majority-element](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0455-assign-cookies/) | Easy |
@@ -79,6 +81,7 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0169-majority-element/) | Easy |
 | [0455-assign-cookies](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0455-assign-cookies/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -93,6 +96,7 @@ leetcode dsa
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0169-majority-element/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,4 +169,12 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
