@@ -156,6 +156,7 @@ leetcode dsa
 | [0110-balanced-binary-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +165,7 @@ leetcode dsa
 | [0110-balanced-binary-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +175,7 @@ leetcode dsa
 | [0110-balanced-binary-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,4 +193,8 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
