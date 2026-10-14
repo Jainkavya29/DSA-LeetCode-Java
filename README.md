@@ -24,6 +24,7 @@ leetcode dsa
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0189-rotate-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -64,6 +65,7 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0048-rotate-image](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0055-jump-game/) | Medium |
 | [0169-majority-element](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0189-rotate-array/) | Medium |
@@ -202,4 +204,8 @@ leetcode dsa
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
