@@ -37,6 +37,7 @@ leetcode dsa
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0088-merge-sorted-array/) | Easy |
@@ -100,6 +101,7 @@ leetcode dsa
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0055-jump-game](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0055-jump-game/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -138,6 +140,7 @@ leetcode dsa
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0020-valid-parentheses/) | Easy |
@@ -220,4 +223,8 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0048-rotate-image/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
