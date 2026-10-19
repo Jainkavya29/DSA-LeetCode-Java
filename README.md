@@ -24,6 +24,7 @@ leetcode dsa
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0189-rotate-array/) | Medium |
 ## Recursion
@@ -53,6 +54,7 @@ leetcode dsa
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -136,6 +138,7 @@ leetcode dsa
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0020-valid-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
