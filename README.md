@@ -127,6 +127,7 @@ leetcode dsa
 | [0144-binary-tree-preorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -162,6 +163,7 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Monotonic Stack
@@ -185,6 +187,7 @@ leetcode dsa
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -215,6 +218,7 @@ leetcode dsa
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -255,6 +259,7 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -268,4 +273,8 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
