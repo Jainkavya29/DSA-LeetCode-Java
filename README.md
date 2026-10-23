@@ -187,6 +187,7 @@ leetcode dsa
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0101-symmetric-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -207,6 +208,7 @@ leetcode dsa
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0101-symmetric-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -220,6 +222,7 @@ leetcode dsa
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0101-symmetric-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -238,6 +241,7 @@ leetcode dsa
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Counting
