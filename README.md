@@ -181,6 +181,7 @@ leetcode dsa
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
@@ -203,6 +204,7 @@ leetcode dsa
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Breadth-First Search
@@ -238,5 +240,6 @@ leetcode dsa
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
