@@ -27,6 +27,7 @@ leetcode dsa
 | [0013-roman-to-integer](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0189-rotate-array/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@ leetcode dsa
 | [0455-assign-cookies](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +168,7 @@ leetcode dsa
 | [0344-reverse-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0344-reverse-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
