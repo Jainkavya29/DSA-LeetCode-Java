@@ -49,6 +49,7 @@ leetcode dsa
 | [0189-rotate-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0344-reverse-string/) | Easy |
 | [0455-assign-cookies](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -160,6 +161,7 @@ leetcode dsa
 | [0020-valid-parentheses](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0020-valid-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0344-reverse-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
