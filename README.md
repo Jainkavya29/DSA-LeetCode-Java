@@ -94,6 +94,7 @@ leetcode dsa
 | [0485-max-consecutive-ones](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0493-reverse-pairs/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0860-lemonade-change](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0860-lemonade-change/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -305,6 +306,7 @@ leetcode dsa
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0493-reverse-pairs](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0493-reverse-pairs/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Binary Lifting
