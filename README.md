@@ -42,6 +42,7 @@ leetcode dsa
 | [0018-4sum](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0141-linked-list-cycle/) | Easy |
@@ -81,6 +82,7 @@ leetcode dsa
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0048-rotate-image](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0055-jump-game/) | Medium |
+| [0075-sort-colors](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -108,6 +110,7 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0018-4sum/) | Medium |
+| [0075-sort-colors](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0169-majority-element/) | Easy |
@@ -116,6 +119,7 @@ leetcode dsa
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0075-sort-colors/) | Medium |
 | [0455-assign-cookies](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0455-assign-cookies/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -335,4 +339,8 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0493-reverse-pairs/) | Hard |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
