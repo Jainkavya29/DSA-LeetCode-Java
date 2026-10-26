@@ -69,6 +69,7 @@ leetcode dsa
 | [0142-linked-list-cycle-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0169-majority-element/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0242-valid-anagram/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0496-next-greater-element-i/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -186,6 +187,7 @@ leetcode dsa
 | [0020-valid-parentheses](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0344-reverse-string/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -204,6 +206,7 @@ leetcode dsa
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Monotonic Stack
@@ -333,6 +336,7 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0014-longest-common-prefix/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
