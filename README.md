@@ -70,6 +70,7 @@ leetcode dsa
 | [0160-intersection-of-two-linked-lists](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0242-valid-anagram/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0496-next-greater-element-i/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@ leetcode dsa
 | [0455-assign-cookies](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0493-reverse-pairs/) | Hard |
+| [0496-next-greater-element-i](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0860-lemonade-change](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0860-lemonade-change/) | Easy |
@@ -159,6 +161,7 @@ leetcode dsa
 | [0225-implement-stack-using-queues](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -206,6 +209,7 @@ leetcode dsa
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Queue
