@@ -73,6 +73,7 @@ leetcode dsa
 | [0142-linked-list-cycle-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -207,6 +208,7 @@ leetcode dsa
 | [0020-valid-parentheses](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0344-reverse-string/) | Easy |
