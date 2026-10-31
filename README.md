@@ -74,6 +74,7 @@ leetcode dsa
 | [0169-majority-element](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0169-majority-element/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0242-valid-anagram/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0496-next-greater-element-i/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -100,6 +101,7 @@ leetcode dsa
 | [0169-majority-element](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -370,4 +372,5 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
