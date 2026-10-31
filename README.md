@@ -61,6 +61,7 @@ leetcode dsa
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0013-roman-to-integer/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -80,6 +81,7 @@ leetcode dsa
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0014-longest-common-prefix/) | Easy |
 | [0018-4sum](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
