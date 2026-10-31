@@ -26,6 +26,7 @@ leetcode dsa
 | [0009-palindrome-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0048-rotate-image/) | Medium |
+| [0066-plus-one](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0189-rotate-array/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Recursion
@@ -89,6 +90,7 @@ leetcode dsa
 | [0027-remove-element](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0027-remove-element/) | Easy |
 | [0048-rotate-image](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0055-jump-game/) | Medium |
+| [0066-plus-one](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
