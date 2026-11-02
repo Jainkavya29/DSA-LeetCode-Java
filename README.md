@@ -27,6 +27,7 @@ leetcode dsa
 | [0013-roman-to-integer](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0189-rotate-array/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Recursion
@@ -334,6 +335,7 @@ leetcode dsa
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0069-sqrtx/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0173-binary-search-tree-iterator/) | Medium |
@@ -388,4 +390,8 @@ leetcode dsa
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
