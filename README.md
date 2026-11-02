@@ -29,6 +29,7 @@ leetcode dsa
 | [0066-plus-one](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0231-power-of-two/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -36,6 +37,7 @@ leetcode dsa
 | [0002-add-two-numbers](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0231-power-of-two](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -394,4 +396,8 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0069-sqrtx/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
