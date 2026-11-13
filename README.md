@@ -405,4 +405,8 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0796-rotate-string/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
