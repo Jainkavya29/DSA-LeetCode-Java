@@ -92,6 +92,7 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0014-longest-common-prefix/) | Easy |
 | [0018-4sum](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -162,6 +163,7 @@ leetcode dsa
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -339,6 +341,7 @@ leetcode dsa
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0069-sqrtx](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0069-sqrtx/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
