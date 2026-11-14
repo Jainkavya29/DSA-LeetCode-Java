@@ -112,6 +112,7 @@ leetcode dsa
 | [0217-contains-duplicate](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0228-summary-ranges/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0414-third-maximum-number/) | Easy |
@@ -171,6 +172,7 @@ leetcode dsa
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0169-majority-element/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0493-reverse-pairs](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0493-reverse-pairs/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -336,6 +338,7 @@ leetcode dsa
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -351,6 +354,7 @@ leetcode dsa
 | [0173-binary-search-tree-iterator](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0493-reverse-pairs](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0493-reverse-pairs/) | Hard |
