@@ -100,6 +100,7 @@ leetcode dsa
 | [0048-rotate-image](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0066-plus-one/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -334,6 +335,7 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0048-rotate-image/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -343,6 +345,7 @@ leetcode dsa
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0069-sqrtx](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0173-binary-search-tree-iterator/) | Medium |
