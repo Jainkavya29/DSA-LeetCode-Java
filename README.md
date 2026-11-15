@@ -413,6 +413,7 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0231-power-of-two/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
