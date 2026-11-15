@@ -175,6 +175,7 @@ leetcode dsa
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0493-reverse-pairs](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0493-reverse-pairs/) | Hard |
 ## Merge Sort
@@ -418,6 +419,7 @@ leetcode dsa
 | [0078-subsets](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0137-single-number-ii/) | Medium |
+| [0191-number-of-1-bits](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0231-power-of-two/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## String Matching
