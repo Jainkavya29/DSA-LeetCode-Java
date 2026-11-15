@@ -102,6 +102,7 @@ leetcode dsa
 | [0066-plus-one](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -414,6 +415,7 @@ leetcode dsa
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0137-single-number-ii/) | Medium |
 | [0231-power-of-two](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0231-power-of-two/) | Easy |
@@ -426,4 +428,8 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0175-combine-two-tables/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
