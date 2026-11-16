@@ -30,6 +30,7 @@ leetcode dsa
 | [0069-sqrtx](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0231-power-of-two/) | Easy |
+| [0509-fibonacci-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0509-fibonacci-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -39,6 +40,7 @@ leetcode dsa
 | [0025-reverse-nodes-in-k-group](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0231-power-of-two](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +166,7 @@ leetcode dsa
 | [0055-jump-game](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0055-jump-game/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0509-fibonacci-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -437,4 +440,8 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0078-subsets/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
