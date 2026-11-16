@@ -131,6 +131,7 @@ leetcode dsa
 | [0860-lemonade-change](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0860-lemonade-change/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
