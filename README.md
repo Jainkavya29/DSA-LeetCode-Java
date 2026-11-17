@@ -30,6 +30,7 @@ leetcode dsa
 | [0069-sqrtx](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0509-fibonacci-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Recursion
@@ -83,6 +84,7 @@ leetcode dsa
 | [0217-contains-duplicate](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0496-next-greater-element-i/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -118,6 +120,7 @@ leetcode dsa
 | [0219-contains-duplicate-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0228-summary-ranges/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0268-missing-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0414-third-maximum-number/) | Easy |
@@ -152,6 +155,7 @@ leetcode dsa
 | [0169-majority-element](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0455-assign-cookies/) | Easy |
@@ -365,6 +369,7 @@ leetcode dsa
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0268-missing-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0493-reverse-pairs](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0493-reverse-pairs/) | Hard |
@@ -428,6 +433,7 @@ leetcode dsa
 | [0137-single-number-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0268-missing-number/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
