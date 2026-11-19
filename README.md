@@ -112,6 +112,7 @@ leetcode dsa
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0137-single-number-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -171,6 +172,7 @@ leetcode dsa
 | [0005-longest-palindromic-substring](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0055-jump-game](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0509-fibonacci-number/) | Easy |
