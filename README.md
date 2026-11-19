@@ -137,6 +137,7 @@ leetcode dsa
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -357,6 +358,7 @@ leetcode dsa
 | [0048-rotate-image](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -383,6 +385,7 @@ leetcode dsa
 | [0704-binary-search](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0704-binary-search/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
