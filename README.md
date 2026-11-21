@@ -35,6 +35,7 @@ leetcode dsa
 | [0189-rotate-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0268-missing-number/) | Easy |
+| [0415-add-strings](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0415-add-strings/) | Easy |
 | [0507-perfect-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0509-fibonacci-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -247,6 +248,7 @@ leetcode dsa
 | [0242-valid-anagram](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0415-add-strings](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0415-add-strings/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -357,6 +359,7 @@ leetcode dsa
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0415-add-strings](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0415-add-strings/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
