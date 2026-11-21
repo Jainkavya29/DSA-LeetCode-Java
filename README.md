@@ -32,6 +32,7 @@ leetcode dsa
 | [0189-rotate-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0268-missing-number/) | Easy |
+| [0507-perfect-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0509-fibonacci-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Recursion
