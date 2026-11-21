@@ -11,6 +11,7 @@ leetcode dsa
 | [0021-merge-two-sorted-lists](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0148-sort-list/) | Medium |
