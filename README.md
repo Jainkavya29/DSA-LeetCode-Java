@@ -93,6 +93,7 @@ leetcode dsa
 | [0242-valid-anagram](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0496-next-greater-element-i/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -245,6 +246,7 @@ leetcode dsa
 | [0208-implement-trie-prefix-tree](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -276,6 +278,7 @@ leetcode dsa
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -346,6 +349,7 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0169-majority-element/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
