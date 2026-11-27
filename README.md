@@ -145,6 +145,7 @@ leetcode dsa
 | [0503-next-greater-element-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0704-binary-search/) | Easy |
+| [0735-asteroid-collision](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0735-asteroid-collision/) | Medium |
 | [0860-lemonade-change](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0860-lemonade-change/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -225,6 +226,7 @@ leetcode dsa
 | [0496-next-greater-element-i](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0735-asteroid-collision](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0735-asteroid-collision/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -366,6 +368,7 @@ leetcode dsa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0415-add-strings/) | Easy |
+| [0735-asteroid-collision](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/0735-asteroid-collision/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jainkavya29/DSA-LeetCode-Java/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
